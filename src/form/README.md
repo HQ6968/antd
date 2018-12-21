@@ -1,3 +1,9 @@
+# install
+yarn add https://github.com/HQ6968/antd
+
+# update
+yarn upgrade https://github.com/HQ6968/antd
+
 # antd form 封装
 # css 全局调整demo
 
